@@ -1,0 +1,11 @@
+Step 1:
+conda create -p venv python==3.10(any python version which is compactible)
+Step 2:
+create a requirements.txt
+Step:3 
+In .gitignore add 'venv' which instraucts which folder should not be taken when i commit in github
+Step 4:
+create a ReadMe file
+Step 5:
+.github/work/main.yml flow should also be created in order to create a deployment stage
+
