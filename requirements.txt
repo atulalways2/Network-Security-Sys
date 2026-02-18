@@ -12,3 +12,6 @@ catboost
 polars
 dill
 lightgbm
+pymongo
+certifi
+-e .            #refers to the setup.py file in the project structure.
