@@ -14,4 +14,6 @@ dill
 lightgbm
 pymongo
 certifi
+pymongo[srv]==3.12
+python-dotenv
 -e .            #refers to the setup.py file in the project structure.
